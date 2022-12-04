@@ -207,3 +207,8 @@ body {
 }
 .object__text {
 }
+
+.image {
+	float: left;
+	margin-right: 20px;
+}
